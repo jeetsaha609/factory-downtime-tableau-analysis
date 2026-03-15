@@ -2,6 +2,9 @@
 
 This project analyzes factory telemetry data to identify machine downtime using Tableau.
 
+## Live Dashboard
+[view Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jeet.saha8469/viz/FactoryDowntimeAnalysisDashboard_17736119088870/Dashboard1?publish=yes)
+
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
 
